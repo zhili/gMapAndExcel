@@ -1,4 +1,3 @@
-// This sample program creates shared style selectors.
 #define GSM_EXCEL_FILE 1
 
 #ifdef GSM_EXCEL_FILE
