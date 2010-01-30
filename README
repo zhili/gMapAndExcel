@@ -1,0 +1,2 @@
+This is a simple tool that generate google map kml files from information of a excel file.
+Due to the limitation of the third party BasicExcel library, it cannot handle large and complex excel file on *nix platform. But on Windows, it make use of ms Office automation, and everything goes just fine.
