@@ -1,5 +1,3 @@
-// This sample program creates shared style selectors.
-
 #include <iostream>
 #include "kml/dom.h"
 #include "kml/convenience/convenience.h"
