@@ -3,8 +3,6 @@
 // #include <standard library headers>
 #include <cassert>
 
-
-
 namespace msexcel {
 
 	excelreader::excelreader(const std::wstring& filename, const std::wstring& sheet, bool visible)
